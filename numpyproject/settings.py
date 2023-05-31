@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-8)a#h&w=8cm4*e$714bvmdl%1xqv-cbia$rahma)f9q1+$8+=u
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost']
+ALLOWED_HOSTS = ['localhost', 'numpyproject.herokuapp.com/']
 
 # Application definition
 
